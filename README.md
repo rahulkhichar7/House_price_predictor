@@ -13,5 +13,5 @@ Create a new environment
 gunicorn: it distribute the request in multiple instances. Web load handling
  -->
 ```
-conda create -p venv python==3.7 -y
+python -m venv ve
 ```
