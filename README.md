@@ -9,7 +9,9 @@ End to End House Price Predictor ML Model
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
 Create a new environment
-
+<!-- Procfile gives commond to heroku that when it start which commonds need to be run first
+gunicorn: it distribute the request in multiple instances. Web load handling
+ -->
 ```
 conda create -p venv python==3.7 -y
 ```
