@@ -2,6 +2,7 @@
 End to End House Price Predictor ML Model
 
 ### Software And Tools Requirements
+python version = 3.10
 
 1. [Github Account](https://github.com)
 2. [HerokuAccount](https://heroku.com)
